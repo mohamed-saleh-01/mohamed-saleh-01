@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-sale7"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/mohamed-saleh-01"><img src="https://img.shields.io/badge/GitHub-My_Projects-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:mohamed284saleh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="YOUR_CV_LINK" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-View%20Resume-yello?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-sale7"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/mohamed-saleh-01"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:mohamed284saleh@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/17xiWbXqJb8rKqEVnrnvToIUtuaL9Ktof/view?usp=drive_link" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-View%20Resume-yello?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
   <a href="#" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Under%20Development-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
