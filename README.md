@@ -18,17 +18,7 @@
 
 I'm Mohamed Saleh, a Data Analyst focused on transforming raw data into meaningful business insights.  
 
-I specialize in data cleaning, analysis, and dashboard development using SQL, Power BI, Excel, and Python. My goal is not just to analyze data — but to extract insights that drive decisions and measurable business impact.
-
-I enjoy building interactive dashboards, optimizing queries, automating repetitive reporting tasks, and designing data-driven solutions that help organizations perform better.
-
----
-
-## 💼 Professional Focus
-
 Currently working on real-world data projects focused on Business Intelligence, Marketing, and Financial Analytics, as well as performance analysis. Experienced in transforming raw datasets into strategic insights through SQL querying, data modeling, and interactive dashboard development using Power BI. Passionate about supporting data-driven decision-making across marketing campaigns, customer behavior analysis, and financial performance tracking.
-
-More projects coming soon ✨
 
 ---
 ## 🛠️ Top Technical Skills & Tools
